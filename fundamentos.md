@@ -1,4 +1,4 @@
-### 📌 Conteúdo Gratuito
+### 📌 Conteúdo 1
 
 **Curso em Vídeo – ALGORITMOS (YouTube)**  
 Esse curso é excelente para aprender lógica de programação do zero.  
