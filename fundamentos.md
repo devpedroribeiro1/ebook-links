@@ -12,4 +12,4 @@ Ele ensina desde os conceitos básicos até a criação de algoritmos mais avan�
 [Este artigo é uma ótima oportunidade para aprofundar seu conhecimento sobre o funcionamento da internet. 
 Ele te ajudará a se tornar um programador muito mais capacitado.]
 
-🔗 [Acesse aqui]([LINK_DO_CONTEÚDO](https://www.cloudflare.com/pt-br/learning/network-layer/how-does-the-internet-work/))
+🔗 [Acesse aqui](https://www.cloudflare.com/pt-br/learning/network-layer/how-does-the-internet-work/)
