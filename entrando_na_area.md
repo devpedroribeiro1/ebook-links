@@ -11,3 +11,8 @@
 🔗 [Módulo 3](https://youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&si=982OsdTCRazy4Eod)
 🔗 [Módulo 4](https://youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT&si=xsIi1Ptnib34FB9u)
 🔗 [Módulo 5](https://youtube.com/playlist?list=PLHz_AreHm4dn1bAtIJWFrugl5z2Ej_52d&si=ZR59R9VC2GFMybDA)
+
+### 📌 Conteúdo 3
+
+**Curso em vídeo - JavaScript**  
+🔗 [Acesse aqui](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1)
