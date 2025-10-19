@@ -16,3 +16,8 @@
 ### 📌 Conteúdo 4
 **Primeiros Passos no PostgreSQL**  
 🔗 [Acesse aqui](https://youtu.be/l5VXbLNYu2U?si=ff32h_mlgxtzQENT)
+
+---
+### 📌 Conteúdo 5
+**Aulão de WebAPI Node.js com Postgre SQL**  
+🔗 [Acesse aqui](https://youtu.be/rwLUBuWy_VU?si=6N63snL4_dc8UBJQ)
