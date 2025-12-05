@@ -5,3 +5,7 @@
 ### 📌 Conteúdo 2
 **O que é CI/CD?**  
 🔗 [Acesse aqui](https://www.redhat.com/pt-br/topics/devops/what-is-ci-cd)
+
+### 📌 Conteúdo 3
+**O que é CI e CD? Pra vc aprender e nunca mais esquecer! | Como usar GitHub Actions?**  
+🔗 [Acesse aqui](https://www.youtube.com/watch?v=IKjcdYQvcDo)
