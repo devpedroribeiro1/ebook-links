@@ -22,6 +22,10 @@
 🔗 [Acesse aqui](https://www.youtube.com/watch?v=deprLB_y6Ho)
 
 ### 📌 Conteúdo x
+**Guia: MCP com Node.js**  
+🔗 [Acesse aqui](https://www.youtube.com/watch?v=FSLXshsPN0w)
+
+### 📌 Conteúdo x
 **Anthropic: Introducing the MCP**  
 🔗 [Acesse aqui (inglês)](https://www.anthropic.com/news/model-context-protocol)
 
