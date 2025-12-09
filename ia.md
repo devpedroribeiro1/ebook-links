@@ -1,3 +1,4 @@
+## Introdução
 ### 📌 Conteúdo 1
 **[Mini Curso] IA para Devs**  
 🔗 [Acesse aqui](https://www.youtube.com/watch?v=90lGnXnMqgo)
@@ -11,15 +12,15 @@
 🔗 [Acesse aqui](https://www.youtube.com/watch?v=nnTeW4lVD0c)
 
 ### 📌 Conteúdo x
-**Introdução ao Open Router**  
-🔗 [Acesse aqui](https://www.youtube.com/watch?v=nnTeW4lVD0c)
+**Github: Usando as chaves de API do provedor LLM com o Copilot**  
+🔗 [Acesse aqui (inglês)](https://docs.github.com/pt/copilot/how-tos/administer-copilot/manage-for-organization/use-your-own-api-keys)
+🔗 [Acesse aqui (pt-br)](https://docs-github-com.translate.goog/pt/copilot/how-tos/administer-copilot/manage-for-organization/use-your-own-api-keys?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp&_x_tr_hist=true)
 
-- como configurar llms no copilot
-- mcp
+## Model Context Protocol
+### 📌 Conteúdo x
+**Introdução a MCPs**  
+🔗 [Acesse aqui](https://www.youtube.com/watch?v=deprLB_y6Ho)
 
-  https://docs.github.com/pt/copilot/how-tos/administer-copilot/manage-for-organization/use-your-own-api-keys
-  https://docs-github-com.translate.goog/pt/copilot/how-tos/administer-copilot/manage-for-organization/use-your-own-api-keys?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt-BR&_x_tr_pto=wapp&_x_tr_hist=true
-  
 ### 📌 Conteúdo x
 **Anthropic: Introducing the MCP**  
 🔗 [Acesse aqui (inglês)](https://www.anthropic.com/news/model-context-protocol)
