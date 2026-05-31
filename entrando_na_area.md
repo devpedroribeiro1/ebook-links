@@ -1,6 +1,6 @@
 ### 📌 Conteúdo 1
 
-**Vídeo DPR: O que é FRONTEND, BACKEND e FULLSTACK?**  
+**Curso em Vídeo - Frontend/Backend/Fullstack**  
 🔗 [Acesse aqui](https://www.youtube.com/watch?v=iSqf2iPqJNM)
 
 ### 📌 Conteúdo 2
