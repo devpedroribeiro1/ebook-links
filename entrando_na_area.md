@@ -1,7 +1,7 @@
 ### 📌 Conteúdo 1
 
 **Vídeo DPR: O que é FRONTEND, BACKEND e FULLSTACK?**  
-🔗 [Acesse aqui](https://www.youtube.com/watch?v=uhvYrj3eQm4&t=2s)
+🔗 [Acesse aqui](https://www.youtube.com/watch?v=iSqf2iPqJNM)
 
 ### 📌 Conteúdo 2
 
