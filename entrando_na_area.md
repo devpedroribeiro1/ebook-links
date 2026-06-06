@@ -1,6 +1,6 @@
 ### 📌 Conteúdo 1
 
-**Curso em Vídeo - Frontend/Backend/Fullstack**  
+**Vídeo - Frontend/Backend/Fullstack**  
 🔗 [Acesse aqui](https://www.youtube.com/watch?v=iSqf2iPqJNM)
 
 ### 📌 Conteúdo 2
